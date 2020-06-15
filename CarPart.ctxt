@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CarPart
+comment1.params=
+comment1.target=CarPart()
+comment2.params=
+comment2.target=void\ status()
+comment3.params=wear
+comment3.target=int\ function(int)
+numComments=4
