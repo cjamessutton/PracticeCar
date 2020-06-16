@@ -15,7 +15,7 @@ public class Brakes extends CarPart{
         double b = mile;
         String brakes = "Anti-lock Braking System";
         double rate = mile / lifeSpan;
-        int wear = (mile/lifeSpan) * 100;
+        int wear = (int) (( (double) mile/lifeSpan) * 100);
         condition = condition - wear;
 
         System.out.println("The "+carPart+" system features an "+ brakes +".");
