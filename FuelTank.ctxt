@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=FuelTank
-comment1.params=
-comment1.target=FuelTank()
-comment2.params=mile
-comment2.target=int\ function(int)
-numComments=3
